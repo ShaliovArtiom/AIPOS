@@ -1,0 +1,26 @@
+GET /index.html HTTP/1.0
+Connection: Keep-Alive
+User-Agent: Mozilla/4.05 (WinNT; 1)
+Host: www.dokwork.ru
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */* 
+
+
+GET /index.html HTTP/1.0
+Connection: Keep-Alive
+User-Agent: Mozilla/4.05 (WinNT; 1)
+Host: www.dokwork.ru
+Content-Type: application/octet-stream
+
+
+GET / HTTP/1.1
+Host: 192.168.43.163:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Linux; Android 4.2.2; GT-I9192 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+
+
+

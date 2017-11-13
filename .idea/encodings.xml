@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/controller/ConnectServer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/controller/ConnectThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/controller/Request.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/Frame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/MemoFrame.java" charset="UTF-8" />
+  </component>
+</project>
